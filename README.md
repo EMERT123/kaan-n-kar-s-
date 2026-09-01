@@ -1,2 +1,2 @@
-# kaan-n-kar-s-
+# kaanin-karisi
 Videoları indirmek için code tuşuna bas ve sonra da oradan download zip tuşuna bas. 
